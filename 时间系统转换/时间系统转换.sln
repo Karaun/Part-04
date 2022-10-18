@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "时间系统转换", "时间系统转换\时间系统转换.csproj", "{20AC65BE-E924-4E9B-9F94-3A96ADCDA585}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20AC65BE-E924-4E9B-9F94-3A96ADCDA585}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20AC65BE-E924-4E9B-9F94-3A96ADCDA585}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20AC65BE-E924-4E9B-9F94-3A96ADCDA585}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20AC65BE-E924-4E9B-9F94-3A96ADCDA585}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48718662-CD6A-4999-9BC6-E60E2F877A91}
+	EndGlobalSection
+EndGlobal

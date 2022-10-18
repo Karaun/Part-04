@@ -1,0 +1,10 @@
+M:\C#学习资料\学习文件\时间系统转换\时间系统转换\bin\Debug\时间系统转换.exe.config
+M:\C#学习资料\学习文件\时间系统转换\时间系统转换\bin\Debug\时间系统转换.exe
+M:\C#学习资料\学习文件\时间系统转换\时间系统转换\bin\Debug\时间系统转换.pdb
+M:\C#学习资料\学习文件\时间系统转换\时间系统转换\obj\Debug\时间系统转换.csprojAssemblyReference.cache
+M:\C#学习资料\学习文件\时间系统转换\时间系统转换\obj\Debug\时间系统转换.Form1.resources
+M:\C#学习资料\学习文件\时间系统转换\时间系统转换\obj\Debug\时间系统转换.Properties.Resources.resources
+M:\C#学习资料\学习文件\时间系统转换\时间系统转换\obj\Debug\时间系统转换.csproj.GenerateResource.cache
+M:\C#学习资料\学习文件\时间系统转换\时间系统转换\obj\Debug\时间系统转换.csproj.CoreCompileInputs.cache
+M:\C#学习资料\学习文件\时间系统转换\时间系统转换\obj\Debug\时间系统转换.exe
+M:\C#学习资料\学习文件\时间系统转换\时间系统转换\obj\Debug\时间系统转换.pdb
